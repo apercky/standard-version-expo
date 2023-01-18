@@ -35,14 +35,15 @@
     "prerelease": "npm run clean && npm run build"
   },
   "dependencies": {
-    "@expo/config": "^3.1.2",
-    "@expo/json-file": "^8.2.10",
+    "@expo/config": "^7.0.2",
+    "@expo/json-file": "^8.2.37",
     "detect-indent": "^6.0.0",
     "detect-newline": "^3.1.0",
     "globby": "^11.0.0",
     "semver": "^7.3.2"
   },
   "devDependencies": {
+    "@babel/core": "^7.20.12",
     "@types/jest": "^25.2.1",
     "@types/node": "^13.13.0",
     "@types/semver": "^7.1.0",
