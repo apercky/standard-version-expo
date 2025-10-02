@@ -35,7 +35,7 @@
     "prerelease": "npm run clean && npm run build"
   },
   "dependencies": {
-    "@expo/config": "~8.1.1",
+    "@expo/config": "~10.1.2",
     "@expo/json-file": "^8.2.37",
     "detect-indent": "^6.0.0",
     "detect-newline": "^3.1.0",
